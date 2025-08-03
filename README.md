@@ -25,9 +25,9 @@ cd Nutritrack
 ```
 
 2. Add API key:
-  - Open local.properties (Might need to Sync Project with Gradle Files if Missing).
-  - Add your Google Generative AI API key:
-  - apiKey=insert_actual_api_key_here
+    - Open `local.properties` (Might need to *Sync Project with Gradle Files* if missing).
+    - Add your Google Generative AI API key:
+    - `apiKey=insert_actual_api_key_here`
 
 3. Gradle Sync (Under File Tab)
 
