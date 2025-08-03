@@ -13,28 +13,27 @@ Kotlin-based Android app using Jetpack Compose and MVVM architecture to help pat
 </div>
 
 # Prerequisite
--Android Studio (Meerkat 2024.3.1 Patch 1 or newer)
--Android SDK 35
--Kotlin 2.0.21
+  - Android Studio (Meerkat 2024.3.1 Patch 1 or newer)
+  - Android SDK 35
+  - Kotlin 2.0.21
 
 # Installation
-1, Repo Clone:
+1. Repo Clone:
 ```bash
 git clone https://github.com/Wlof16/Nutritrack
 cd Nutritrack
 ```
 
-2, Add API key:
+2. Add API key:
+  - Open local.properties (Might need to Sync Project with Gradle Files if Missing).
+  - Add your Google Generative AI API key:
+  - apiKey=insert_actual_api_key_here
 
--Open local.properties (Might need to Sync Project with Gradle Files if Missing).
--Add your Google Generative AI API key:
--apiKey=insert_actual_api_key_here
+3. Gradle Sync (Under File Tab)
 
-3, Gradle Sync (Under File Tab)
+4. Start and Run an Emulator
 
-4, Start and Run an Emulator
-
-5, Enjoy!
+5. Enjoy!
 
 # Notes
 Clinician passphrase: dollar-entry-apples
