@@ -1,7 +1,7 @@
 # Nutritrack
 Kotlin-based Android app using Jetpack Compose and MVVM architecture to help patients visualize and understand food quality scores after clinical diet assessments. 
 
-#Screenshots
+# Screenshots
 <div style="display: flex; gap: 10px; overflow-x: auto; align-items: flex-start;">
   <img src="https://github.com/user-attachments/assets/9491fa1d-443b-4d3a-92d2-5aea1b54660f" height="300" />
   <img src="https://github.com/user-attachments/assets/80213472-eb7e-4ce3-99b4-349a2dba6fcd" height="300" />
@@ -12,12 +12,12 @@ Kotlin-based Android app using Jetpack Compose and MVVM architecture to help pat
   <img src="https://github.com/user-attachments/assets/5ae94aa7-a04d-4a16-a430-dd1342ca0fa2" height="300" />
 </div>
 
-#Prerequisite
+# Prerequisite
 -Android Studio (Meerkat 2024.3.1 Patch 1 or newer)
 -Android SDK 35
 -Kotlin 2.0.21
 
-#Installation
+# Installation
 1, Repo Clone:
 ```bash
 git clone https://github.com/Wlof16/Nutritrack
@@ -36,7 +36,7 @@ cd Nutritrack
 
 5, Enjoy!
 
-#Notes
+# Notes
 Clinician passphrase: dollar-entry-apples
 
 
