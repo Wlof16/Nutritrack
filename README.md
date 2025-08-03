@@ -21,19 +21,21 @@ Kotlin-based Android app using Jetpack Compose and MVVM architecture to help pat
 1. Repo Clone:
 ```bash
 git clone https://github.com/Wlof16/Nutritrack
-cd Nutritrack
 ```
 
-2. Add API key:
+2. Reopen project to update Android Studio project view
+    - File -> Open -> Select Actual App Folder (e.g., ../Nutritrack/)
+
+3. Add API key:
     - Open `local.properties` (Might need to *Sync Project with Gradle Files* if missing).
     - Add your Google Generative AI API key:
     - `apiKey=insert_actual_api_key_here`
 
-3. Gradle Sync (Under File Tab)
+4. Gradle Sync (Under File Tab)
 
-4. Start and Run an Emulator
+5. Start and Run an Emulator
 
-5. Enjoy!
+6. Enjoy!
 
 # Notes
 Clinician passphrase: dollar-entry-apples
